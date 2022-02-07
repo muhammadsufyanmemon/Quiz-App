@@ -1,0 +1,23 @@
+.form{
+    display: none;
+}
+
+.quiz{
+    display: flex;
+    justify-content: space-between;
+}
+.div{
+    text-align: center;
+}
+.button{
+    width: 70%;
+}
+.quizz{
+    display: none;
+}
+.result{
+    display: none;
+}
+#submit{
+    display: none;
+}
